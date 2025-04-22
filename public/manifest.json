@@ -3,9 +3,15 @@
   "name": "ollisten",
   "icons": [
     {
-      "src": "favicon.png",
+      "src": "img/ollisten-logo-circle-black.png",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/png"
+    },
+    {
+      "src": "img/ollisten-logo-circle-white.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png",
+      "media": "(prefers-color-scheme: dark)"
     }
   ],
   "start_url": "./index.html",
